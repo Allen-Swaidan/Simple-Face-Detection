@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/allen/Downloads/Code/OpenCv Test/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.9.0_5/include/opencv4 -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/opencvtest.dir/main.cpp.o -c \"/Users/allen/Downloads/Code/OpenCv Test/main.cpp\"",
+  "file": "/Users/allen/Downloads/Code/OpenCv Test/main.cpp",
+  "output": "CMakeFiles/opencvtest.dir/main.cpp.o"
+}
+]
